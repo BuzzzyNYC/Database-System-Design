@@ -1,4 +1,4 @@
-# Designing a Data Warehousing for a Web Application 
+# Data Warehousing Design for a Web Application 
 
 ## Abstract
 

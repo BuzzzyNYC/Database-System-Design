@@ -53,6 +53,6 @@ This ER model has all primary keys specified, as well as relationships with card
 * Working queries to produce the reports and testing. 
 
 ## References
-Project details is provided from Professor Bonnie K. MacKellar; Department of Computer Science, Mathematics and Science. The Lesley H. and William L. Collins College of Professional Studies; St. John's University.
+Project details and requirements are provided from Professor Bonnie K. MacKellar; Department of Computer Science, Mathematics and Science. The Lesley H. and William L. Collins College of Professional Studies; St. John's University.
 
 
